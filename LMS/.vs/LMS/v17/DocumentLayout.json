@@ -1,0 +1,681 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\viewbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\viewbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\returnbook .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\returnbook .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\viewstudentinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\viewstudentinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\completebookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\completebookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\returnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\returnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\viewstudentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\viewstudentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\viewbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\viewbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\returnedbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\returnedbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\iviewbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\iviewbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\issuedbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\issuedbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\issuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\issuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\issueandreturnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\issueandreturnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\ireturnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\ireturnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\iissuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\iissuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\iaddstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\iaddstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\iaddbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\iaddbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\lms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\lms\\completebookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\completebookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\completebookdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\completebookdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\addstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\addstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\lms\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\addnewbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\addnewbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\lms\\addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\addbooks.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\addbooks.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\lms\\returnbook .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\returnbook .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\lms\\issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\lms\\viewstudentinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\viewstudentinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\lms\\viewbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\viewbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\lms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:1:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\lms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\lms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\lms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\lms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|c:\\users\\hp\\downloads\\oop lab project.vs\\lms\\lms\\lms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:2:0:{4F58985E-3093-4E46-8267-B82385445523}|LMS\\LMS.csproj|solutionrelative:lms\\lms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddStudent.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\AddStudent.cs",
+              "RelativeDocumentMoniker": "LMS\\AddStudent.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\AddStudent.cs",
+              "RelativeToolTip": "LMS\\AddStudent.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwDIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:47.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IssueBooks.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\IssueBooks.cs",
+              "RelativeDocumentMoniker": "LMS\\IssueBooks.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\IssueBooks.cs",
+              "RelativeToolTip": "LMS\\IssueBooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:48.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\Student.cs",
+              "RelativeDocumentMoniker": "LMS\\Student.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\Student.cs",
+              "RelativeToolTip": "LMS\\Student.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReturnBook .cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\ReturnBook .cs",
+              "RelativeDocumentMoniker": "LMS\\ReturnBook .cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\ReturnBook .cs",
+              "RelativeToolTip": "LMS\\ReturnBook .cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwDgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:48.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddBooks.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\AddBooks.cs",
+              "RelativeDocumentMoniker": "LMS\\AddBooks.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\AddBooks.cs",
+              "RelativeToolTip": "LMS\\AddBooks.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA0wCUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewBook.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\ViewBook.cs",
+              "RelativeDocumentMoniker": "LMS\\ViewBook.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\ViewBook.cs",
+              "RelativeToolTip": "LMS\\ViewBook.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:48.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewStudentInformation.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\ViewStudentInformation.cs",
+              "RelativeDocumentMoniker": "LMS\\ViewStudentInformation.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\ViewStudentInformation.cs",
+              "RelativeToolTip": "LMS\\ViewStudentInformation.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAACoAAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:48.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\Form1.cs",
+              "RelativeDocumentMoniker": "LMS\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\Form1.cs",
+              "RelativeToolTip": "LMS\\Form1.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAUwE4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:48.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewBooks.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\ViewBooks.cs",
+              "RelativeDocumentMoniker": "LMS\\ViewBooks.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\ViewBooks.cs",
+              "RelativeToolTip": "LMS\\ViewBooks.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\Program.cs",
+              "RelativeDocumentMoniker": "LMS\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\Program.cs",
+              "RelativeToolTip": "LMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReturnBooks.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\ReturnBooks.cs",
+              "RelativeDocumentMoniker": "LMS\\ReturnBooks.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\ReturnBooks.cs",
+              "RelativeToolTip": "LMS\\ReturnBooks.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:48.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompleteBookDetails.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\CompleteBookDetails.cs",
+              "RelativeDocumentMoniker": "LMS\\CompleteBookDetails.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\CompleteBookDetails.cs",
+              "RelativeToolTip": "LMS\\CompleteBookDetails.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:48.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IViewBook.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\IViewBook.cs",
+              "RelativeDocumentMoniker": "LMS\\IViewBook.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\IViewBook.cs",
+              "RelativeToolTip": "LMS\\IViewBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewStudentInfo.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\ViewStudentInfo.cs",
+              "RelativeDocumentMoniker": "LMS\\ViewStudentInfo.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\ViewStudentInfo.cs",
+              "RelativeToolTip": "LMS\\ViewStudentInfo.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:48.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReturnedBooks.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\ReturnedBooks.cs",
+              "RelativeDocumentMoniker": "LMS\\ReturnedBooks.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\ReturnedBooks.cs",
+              "RelativeToolTip": "LMS\\ReturnedBooks.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IssuedBooks.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\IssuedBooks.cs",
+              "RelativeDocumentMoniker": "LMS\\IssuedBooks.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\IssuedBooks.cs",
+              "RelativeToolTip": "LMS\\IssuedBooks.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IssueBook.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\IssueBook.cs",
+              "RelativeDocumentMoniker": "LMS\\IssueBook.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\IssueBook.cs",
+              "RelativeToolTip": "LMS\\IssueBook.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IssueandReturnBook.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\IssueandReturnBook.cs",
+              "RelativeDocumentMoniker": "LMS\\IssueandReturnBook.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\IssueandReturnBook.cs",
+              "RelativeToolTip": "LMS\\IssueandReturnBook.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IReturnBook.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\IReturnBook.cs",
+              "RelativeDocumentMoniker": "LMS\\IReturnBook.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\IReturnBook.cs",
+              "RelativeToolTip": "LMS\\IReturnBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IIssueBooks.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\IIssueBooks.cs",
+              "RelativeDocumentMoniker": "LMS\\IIssueBooks.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\IIssueBooks.cs",
+              "RelativeToolTip": "LMS\\IIssueBooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAddStudent.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\IAddStudent.cs",
+              "RelativeDocumentMoniker": "LMS\\IAddStudent.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\IAddStudent.cs",
+              "RelativeToolTip": "LMS\\IAddStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAddbooks.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\IAddbooks.cs",
+              "RelativeDocumentMoniker": "LMS\\IAddbooks.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\IAddbooks.cs",
+              "RelativeToolTip": "LMS\\IAddbooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\Dashboard.cs",
+              "RelativeDocumentMoniker": "LMS\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\Dashboard.cs [Design]",
+              "RelativeToolTip": "LMS\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CompleteBookDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\CompleteBookDetails.cs",
+              "RelativeDocumentMoniker": "LMS\\CompleteBookDetails.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\CompleteBookDetails.cs [Design]",
+              "RelativeToolTip": "LMS\\CompleteBookDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CompleteBookDetail.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\CompleteBookDetail.cs",
+              "RelativeDocumentMoniker": "LMS\\CompleteBookDetail.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\CompleteBookDetail.cs",
+              "RelativeToolTip": "LMS\\CompleteBookDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:48.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\Book.cs",
+              "RelativeDocumentMoniker": "LMS\\Book.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\Book.cs",
+              "RelativeToolTip": "LMS\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddStudents.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\AddStudents.cs",
+              "RelativeDocumentMoniker": "LMS\\AddStudents.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\AddStudents.cs",
+              "RelativeToolTip": "LMS\\AddStudents.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\AddStudent.cs",
+              "RelativeDocumentMoniker": "LMS\\AddStudent.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\AddStudent.cs [Design]",
+              "RelativeToolTip": "LMS\\AddStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddNewBook.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\AddNewBook.cs",
+              "RelativeDocumentMoniker": "LMS\\AddNewBook.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\AddNewBook.cs",
+              "RelativeToolTip": "LMS\\AddNewBook.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddBooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\AddBooks.cs",
+              "RelativeDocumentMoniker": "LMS\\AddBooks.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\AddBooks.cs [Design]",
+              "RelativeToolTip": "LMS\\AddBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddBooks.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\AddBooks.Designer.cs",
+              "RelativeDocumentMoniker": "LMS\\AddBooks.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\AddBooks.Designer.cs",
+              "RelativeToolTip": "LMS\\AddBooks.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ReturnBook .cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\ReturnBook .cs",
+              "RelativeDocumentMoniker": "LMS\\ReturnBook .cs",
+              "ToolTip": "F:\\PAF-KIET\\Semester-II Spring-2022\\Object Oriented Concepts and Programming Lab\\Assignments\\Project\\LMS\\LMS\\ReturnBook .cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-18T06:41:50.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IssueBooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\IssueBooks.cs",
+              "RelativeDocumentMoniker": "LMS\\IssueBooks.cs",
+              "ToolTip": "F:\\PAF-KIET\\Semester-II Spring-2022\\Object Oriented Concepts and Programming Lab\\Assignments\\Project\\LMS\\LMS\\IssueBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-18T06:41:50.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ViewStudentInformation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\ViewStudentInformation.cs",
+              "RelativeDocumentMoniker": "LMS\\ViewStudentInformation.cs",
+              "ToolTip": "F:\\PAF-KIET\\Semester-II Spring-2022\\Object Oriented Concepts and Programming Lab\\Assignments\\Project\\LMS\\LMS\\ViewStudentInformation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-18T06:41:50.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ViewBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\ViewBook.cs",
+              "RelativeDocumentMoniker": "LMS\\ViewBook.cs",
+              "ToolTip": "F:\\PAF-KIET\\Semester-II Spring-2022\\Object Oriented Concepts and Programming Lab\\Assignments\\Project\\LMS\\LMS\\ViewBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-18T06:41:50.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LMS.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\LMS.csproj",
+              "RelativeDocumentMoniker": "LMS\\LMS.csproj",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\LMS.csproj",
+              "RelativeToolTip": "LMS\\LMS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T06:41:50.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\Form1.cs",
+              "RelativeDocumentMoniker": "LMS\\Form1.cs",
+              "ToolTip": "F:\\PAF-KIET\\Semester-II Spring-2022\\Object Oriented Concepts and Programming Lab\\Assignments\\Project\\LMS\\LMS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-18T06:41:50.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LMS.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\LMS.csproj",
+              "RelativeDocumentMoniker": "LMS\\LMS.csproj",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\LMS.csproj",
+              "RelativeToolTip": "LMS\\LMS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T06:41:50.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LMS",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\LMS.csproj",
+              "RelativeDocumentMoniker": "LMS\\LMS.csproj",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\LMS.csproj",
+              "RelativeToolTip": "LMS\\LMS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T06:41:50.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "LMS\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\Form1.Designer.cs",
+              "RelativeToolTip": "LMS\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "LMS\\Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\oop lab project.vs\\LMS\\LMS\\Dashboard.Designer.cs",
+              "RelativeToolTip": "LMS\\Dashboard.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:41:50.774Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

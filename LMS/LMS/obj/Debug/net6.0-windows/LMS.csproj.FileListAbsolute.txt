@@ -1,0 +1,66 @@
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\bin\Debug\net6.0-windows\LMS.exe
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\bin\Debug\net6.0-windows\LMS.deps.json
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\bin\Debug\net6.0-windows\LMS.runtimeconfig.json
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\bin\Debug\net6.0-windows\LMS.dll
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\bin\Debug\net6.0-windows\LMS.pdb
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\obj\Debug\net6.0-windows\LMS.csproj.AssemblyReference.cache
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\obj\Debug\net6.0-windows\LMS.Form1.resources
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\obj\Debug\net6.0-windows\LMS.Properties.Resources.resources
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\obj\Debug\net6.0-windows\LMS.csproj.GenerateResource.cache
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\obj\Debug\net6.0-windows\LMS.GeneratedMSBuildEditorConfig.editorconfig
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\obj\Debug\net6.0-windows\LMS.AssemblyInfoInputs.cache
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\obj\Debug\net6.0-windows\LMS.AssemblyInfo.cs
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\obj\Debug\net6.0-windows\LMS.csproj.CoreCompileInputs.cache
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\obj\Debug\net6.0-windows\LMS.dll
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\obj\Debug\net6.0-windows\refint\LMS.dll
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\obj\Debug\net6.0-windows\LMS.pdb
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\obj\Debug\net6.0-windows\LMS.genruntimeconfig.cache
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\obj\Debug\net6.0-windows\ref\LMS.dll
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\obj\Debug\net6.0-windows\LMS.csproj.CopyComplete
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\obj\Debug\net6.0-windows\LMS.Dashboard.resources
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\obj\Debug\net6.0-windows\LMS.AddBooks.resources
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\obj\Debug\net6.0-windows\LMS.ViewBook.resources
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\obj\Debug\net6.0-windows\LMS.AddStudent.resources
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\obj\Debug\net6.0-windows\LMS.ViewStudentInformation.resources
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\obj\Debug\net6.0-windows\LMS.IssueBooks.resources
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\obj\Debug\net6.0-windows\LMS.ReturnBook.resources
+F:\PAF-KIET\Semester-II Spring-2022\Object Oriented Concepts and Programming Lab\Assignments\Project\LMS\LMS\obj\Debug\net6.0-windows\LMS.CompleteBookDetails.resources
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\bin\Debug\net6.0-windows\LMS.exe
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\bin\Debug\net6.0-windows\LMS.deps.json
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\bin\Debug\net6.0-windows\LMS.runtimeconfig.json
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\bin\Debug\net6.0-windows\LMS.dll
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\bin\Debug\net6.0-windows\LMS.pdb
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\obj\Debug\net6.0-windows\LMS.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\obj\Debug\net6.0-windows\LMS.AddBooks.resources
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\obj\Debug\net6.0-windows\LMS.AddStudent.resources
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\obj\Debug\net6.0-windows\LMS.CompleteBookDetails.resources
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\obj\Debug\net6.0-windows\LMS.Dashboard.resources
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\obj\Debug\net6.0-windows\LMS.Form1.resources
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\obj\Debug\net6.0-windows\LMS.IssueBooks.resources
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\obj\Debug\net6.0-windows\LMS.Properties.Resources.resources
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\obj\Debug\net6.0-windows\LMS.ReturnBook.resources
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\obj\Debug\net6.0-windows\LMS.ViewBook.resources
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\obj\Debug\net6.0-windows\LMS.ViewStudentInformation.resources
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\obj\Debug\net6.0-windows\LMS.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\obj\Debug\net6.0-windows\LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\obj\Debug\net6.0-windows\LMS.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\obj\Debug\net6.0-windows\LMS.AssemblyInfo.cs
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\obj\Debug\net6.0-windows\LMS.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\obj\Debug\net6.0-windows\LMS.csproj.Up2Date
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\obj\Debug\net6.0-windows\LMS.dll
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\obj\Debug\net6.0-windows\refint\LMS.dll
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\obj\Debug\net6.0-windows\LMS.pdb
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\obj\Debug\net6.0-windows\LMS.genruntimeconfig.cache
+C:\Users\hp\Downloads\oop lab project.vs\LMS\LMS\obj\Debug\net6.0-windows\ref\LMS.dll
